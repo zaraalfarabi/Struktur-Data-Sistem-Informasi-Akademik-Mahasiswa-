@@ -36,7 +36,8 @@ Program ini menjelaskan cara kerja sistem informasi akademik sederhana yang berf
 - Diagram ini menggambarkan relasi *Dependency* (Ketergantungan): Class Main bergantung pada Class Mahasiswa untuk membuat objek dan mengolah data. Tanpa Class Mahasiswa, Class Main tidak memiliki data yang bisa diproses.
 
 Berikut gambar class diagram dari program ini yang diproses oleh mermaid.ai:
-![alt text](assets/image.png)
+
+<img width="869" height="578" alt="Screenshot 2026-04-08 164251" src="https://github.com/user-attachments/assets/96a917c4-1224-4e58-b9e7-2813a525acd7" />
 
 # Kode Program
 ## 1. Class
@@ -298,8 +299,10 @@ public class Main {
 }
 ```
 # Output Program
-![alt text](<assets/Screenshot 2026-04-08 171547.png>)
-![alt text](<assets/Screenshot 2026-04-08 171616.png>)
+<img width="1046" height="634" alt="Screenshot 2026-04-08 171547" src="https://github.com/user-attachments/assets/f2bc9be7-4de2-472e-b987-0a7c83364547" />
+<img width="1044" height="838" alt="Screenshot 2026-04-08 171616" src="https://github.com/user-attachments/assets/e1dca3fd-c64d-4738-bbf8-f52f9c872e4e" />
+
+
 
 # Keunikan Program
 Ada beberapa keunikan dari program Sistem Informasi Akademik Mahasiswa sederhana yang saya buat, yaitu:
